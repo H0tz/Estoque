@@ -1,0 +1,43 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+    padding: 60px 15px 0;
+}
+  
+.footer {
+    background-color: #f5f5f5;
+}
+  
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+  
+code {
+    font-size: 80%;
+}
+
+.content-header {
+    margin-top: 5rem !important;   
+    margin-bottom: 1rem;
+    position: relative;
+    height: 50px;
+}
+
+.content-header-title {
+    position: absolute;
+    left: 0;
+    font-size: 2rem;
+}
+
+.content-header-new {
+    position: absolute;
+    right: 0;
+}
+
+.content-header-new-icon {
+    font-size: 0.75rem;
+    margin-left: 15px;
+}
